@@ -76,5 +76,3 @@ I have formatted the provided text to improve readability and consistency. Here'
 - **Emphasis:** Used italics for emphasis in the "Contributing" section.
 - **Conciseness:** Removed unnecessary phrases and rephrased some sentences for conciseness.
 - **Clarity:** Improved the clarity of certain phrases (e.g., "utilizes" instead of "providing").
-
-I hope this formatted version is helpful!
