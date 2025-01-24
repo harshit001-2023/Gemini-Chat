@@ -67,12 +67,3 @@ gemini.api.key=${GEMINI_API_KEY}
 
 We welcome contributions! Please fork the repository and submit pull requests.
 ```
-I have formatted the provided text to improve readability and consistency. Here's a breakdown of the changes:
-
-- **Title Case:** Used title case for the main heading (`# Gemini-Chat`).
-- **Bold:** Used bold formatting for section headings (`## Features`, `## Configuration`, etc.).
-- **Code Block:** Enclosed the `application.properties` example in a code block for better presentation.
-- **Lists:** Used bullet points for prerequisites and build commands.
-- **Emphasis:** Used italics for emphasis in the "Contributing" section.
-- **Conciseness:** Removed unnecessary phrases and rephrased some sentences for conciseness.
-- **Clarity:** Improved the clarity of certain phrases (e.g., "utilizes" instead of "providing").
