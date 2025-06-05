@@ -1,4 +1,3 @@
-```
 # Gemini-Chat
 
 **Gemini-Chat** is a Spring Boot application designed to interact with the Gemini API. It provides a robust backend service for chat functionalities, leveraging the power of Spring Boot and external API integrations.
