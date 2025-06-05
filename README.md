@@ -65,4 +65,3 @@ gemini.api.key=${GEMINI_API_KEY}
 ## Contributing
 
 We welcome contributions! Please fork the repository and submit pull requests.
-```
