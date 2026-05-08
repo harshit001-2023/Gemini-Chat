@@ -8,6 +8,15 @@
 * **External API Integration:** Connects to the Gemini API for enhanced chat functionalities.
 * **Configuration Management:** Employs `application.properties` for managing application configurations.
 
+> **System Flow:**
+> ```mermaid
+> graph LR
+> A[React Frontend] --> B(Spring Boot API)
+> B --> C{Gemini AI API}
+> C --> B
+> B --> D[(Database)]
+> ```
+
 ## Configuration
 
 The application requires specific environment variables to function properly. These variables are used within the `application.properties` file.
